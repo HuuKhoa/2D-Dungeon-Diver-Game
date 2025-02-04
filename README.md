@@ -1,0 +1,1 @@
+Hi my name is Huu-Khoa and this is my first 2D game created on Unity and with C#. The game is a simple 2D game where you go around a simple dungeon collecting gems and completing missions. It is only my first project so it is pretty simplistic. If you see this hope you have fun!
